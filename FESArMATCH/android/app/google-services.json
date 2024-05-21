@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428993682155",
+    "project_id": "fesarmatch",
+    "storage_bucket": "fesarmatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428993682155:android:13a12a33b717bd05157cae",
+        "android_client_info": {
+          "package_name": "com.DEJ.fesarmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4XR136L3idw1JMRFsHZVliPSwaJ48fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
